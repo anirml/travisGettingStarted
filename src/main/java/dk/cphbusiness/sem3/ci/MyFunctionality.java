@@ -12,7 +12,7 @@ public class MyFunctionality {
 
   /**
    * Aaaaaalways returns 10. Or does it?!
-   *
+   *lll
    * @return 10. Maybe.
    */
   public static int giveMeTen() {
